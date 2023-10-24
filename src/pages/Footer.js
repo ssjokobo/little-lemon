@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer>
-            <a><img src="assets/images/logo.png"/></a>
+            <a><img src="assets/images/logo.png" width="200"/></a>
             <h3>Doormat Navigation</h3>
                 <ul>
                     <a>Home</a>
@@ -26,3 +26,5 @@ function Footer() {
         </footer>
     );
   }
+
+export default Footer;

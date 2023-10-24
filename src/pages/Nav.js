@@ -2,7 +2,7 @@ function Nav() {
     return (
         <nav>
             <ul>
-                <a><img src="assets/images/logo.png"/></a>
+                <a><img src="/assets/images/logo.png" width="200"/></a>
                 <a>HOME</a>
                 <a>ABOUT</a>
                 <a>MENU</a>
@@ -13,3 +13,5 @@ function Nav() {
         </nav>
     );
   }
+
+export default Nav;
