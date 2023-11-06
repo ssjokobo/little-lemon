@@ -1,6 +1,6 @@
 function Main() {
     return (
-        <main></main>
+        <main className="grid-container"></main>
     );
   }
 

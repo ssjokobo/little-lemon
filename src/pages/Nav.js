@@ -1,7 +1,7 @@
 function Nav() {
     return (
-        <nav>
-            <ul>
+        <nav className="grid-item">
+            <ul className="nav-links">
                 <a><img src="/assets/images/logo.png" width="200"/></a>
                 <a>HOME</a>
                 <a>ABOUT</a>

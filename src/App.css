@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.grid-container {
+  display: grid;
+  width: 100%;
+}
+
+.grid-item {
+  text-align: center;
+}
+
+.nav-links a {
+  padding: 20px;
+}

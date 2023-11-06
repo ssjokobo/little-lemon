@@ -6,7 +6,7 @@ import Footer from './pages/Footer';
 
 function App() {
   return (
-    <React.Fragment>
+    <React.Fragment className="grid-container">
       <Nav/>
       <Main/>
       <Footer/>

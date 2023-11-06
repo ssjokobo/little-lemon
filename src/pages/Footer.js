@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer>
+        <footer className="grid-container">
             <a><img src="assets/images/logo.png" width="200"/></a>
             <h3>Doormat Navigation</h3>
                 <ul>
