@@ -40,12 +40,19 @@
 .grid-container {
   display: grid;
   width: 100%;
+  align-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
 }
 
-.grid-item {
+nav {
   text-align: center;
 }
 
 .nav-links a {
   padding: 20px;
+}
+
+li {
+  list-style-type: none
 }
